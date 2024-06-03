@@ -18,6 +18,8 @@ The only dependency that needs to be handled externally (outside of the frontend
 3. Run the client React app with `npm start`
 
 ### Backend/Server
+> Note: requires FFmpeg installed on machine
+
 1. Traverse to `backend/`
 2. Download the dependencies with `pip install -r requirements.txt`
 3. Run the server through `main.py`
